@@ -1,7 +1,5 @@
 # Hakooi Nuxt Boilerplate
 
-![GitHub top language](https://img.shields.io/github/languages/top/hakooi/nuxt-starter)
-
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=for-the-badge)](https://github.com/hakooi/nuxt-starter 'JavaScript The Good Parts')
 
 > Hakooi Studio Nuxt Boilerplate
@@ -31,8 +29,9 @@ $ yarn generate
 
 ## Library included
 
-- Animejs
-- scrollto
-- gmaps
+- [Animejs](https://animejs.com/)
+- [scrollto](https://vue-scrollto.netlify.com/)
+- [gmaps](https://github.com/remedyal/nuxt-gmaps)
+- [AOS](https://michalsnik.github.io/aos/)
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
