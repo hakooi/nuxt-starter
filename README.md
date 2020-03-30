@@ -1,10 +1,8 @@
 # Hakooi
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
-![GitHub top language](https://img.shields.io/github/languages/top/hakooi/nuxt-starter?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/hakooi/nuxt-starter?style=flat-square)
 
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=for-the-badge)](https://github.com/hakooi/nuxt-starter 'JavaScript The Good Parts')
-![W3C Validation](https://img.shields.io/w3c-validation/default?style=for-the-badge&targetUrl=https%3A%2F%2Fhakooi.com 'w3c Validation')
 
 > Hakooi Studio company profile
 
