@@ -1,6 +1,6 @@
 # Hakooi Nuxt Boilerplate
 
-[GitHub top language](https://img.shields.io/github/languages/top/hakooi/nuxt-starter?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/hakooi/nuxt-starter)
 
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=for-the-badge)](https://github.com/hakooi/nuxt-starter 'JavaScript The Good Parts')
 
