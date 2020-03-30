@@ -1,5 +1,5 @@
 <template>
-	<div class="leading-normal tracking-normal gradient">
+	<div class="leading-normal tracking-normal gradient h-screen">
 		<Navbar />
 		<Hero />
 		<Service />
@@ -13,13 +13,7 @@
 <script>
 // import Navbar from '~/components/Nav/Nav'
 import anime from 'animejs'
-import Navbar from '~/components/Nav/NavAnima'
 import Hero from '~/components/Hero/Hero'
-import Service from '~/components/Service/Service'
-import Footer from '~/components/Footer/Footer'
-import Team from '~/components/Team/Team'
-import TechStack from '~/components/Stack/TechStack'
-import Adornment from '~/components/Details/Adornment'
 
 export default {
 	data() {
@@ -58,13 +52,7 @@ export default {
 		}
 	},
 	components: {
-		Navbar,
-		Hero,
-		Service,
-		Team,
-		TechStack,
-		Footer,
-		Adornment
+		Hero
 	},
 	methods: {
 		scroll(arg) {

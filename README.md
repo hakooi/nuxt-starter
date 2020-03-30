@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
@@ -18,5 +18,17 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+
+## Sync process
+
+- Generate favicon using [Favicon Generator](https://realfavicongenerator.net/)
+- Setup opengraph for better snippet url share
+- don't forget to setup meta data
+
+## Library included
+
+- Animejs
+- scrollto
+- gmaps
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
